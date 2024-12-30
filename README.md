@@ -1,3 +1,7 @@
 # hello-world
 dog.js:
-The code provided defines a function to convert human years to dog years based on common pet age conversion rules.
+A function to convert human years to dog years based on common pet age conversion rules.
+Monsters: 
+The game where the player fights randomly selected monsters, earning points for wins and resetting on losses.
+
+
