@@ -6,6 +6,7 @@ This repository contains the projects from my studio classes last year. The main
 - **monsters.js**: A JavaScript project (The game where the player fights randomly selected monsters, earning points for wins and resetting on losses).
 - **game-girl.html, CSS, j.s**: A simple game girl that ( A basic drawing game where users can draw on a grid-based canvas using mouse events.)
 - **hearts.js**: A JavaScript program that (displays a grid of hearts with different love-themed texts and colors, changing text and color upon mouse press).
+- **gadget-haven.html, CSS, JS**: A shopping website that (Allows users to browse products, view prices, and add selected items to their shopping cart, updating in real-time when a product is clicked).
 
 ## Technologies Used:
 - JavaScript
@@ -27,10 +28,13 @@ I am learning how to create an interactive drawing game using HTML, CSS, and Jav
 
 I am learning that the code displays hearts with messages, and clicking on them changes both the text and the colors randomly.
 
+I am learning how to implement basic JavaScript functions for e-commerce websites, such as adding items to a shopping cart dynamically.
+
 ## Suggestions for Improvement:
 - I could add user input functionality to make the program interactive, allowing users to enter the number of human years to calculate the corresponding dog years.
 - I could add a feature where players can choose to upgrade their stats (e.g., health or attack) after defeating a monster, adding more depth and strategy to the gameplay.
 - I could add a timer to limit the drawing time and reset the canvas when time runs out.
 - I  could add a heart animation effect when the mouse is pressed, such as making the hearts grow larger or bounce, to make the interaction more engaging.
+- I  could add a responsive design for better mobile compatibility, such as implementing media queries to adjust the layout and font sizes based on screen size.
 
 
